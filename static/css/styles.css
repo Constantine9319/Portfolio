@@ -42,7 +42,7 @@ p{
     margin-bottom: 1rem;
 }
 section{
-    padding: 5rem 6rem;
+    padding: 5rem 4rem;
 }
 /*White sections*/
 .white-section{
@@ -75,6 +75,8 @@ section{
 
 nav {
     background-color: #3F72AF;
+    padding-right: 4rem;
+    padding-left: 4rem;
 }
 
 #brand {
