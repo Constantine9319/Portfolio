@@ -133,7 +133,7 @@ p.lead {
 }
 .mail{
     text-align: right;
-    margin-top: 2rem;
+    margin-top: 0.5rem;
 }
 /*Experience section*/
 
@@ -149,4 +149,8 @@ p.lead {
 footer{
     text-align: center;
     padding: 5rem 7rem
+}
+
+footer .social-icons{
+    margin-top: 3rem;
 }
