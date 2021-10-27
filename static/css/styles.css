@@ -131,7 +131,10 @@ p.lead {
     background-color: #3F72AF;
     color: #fff;
 }
-
+.mail{
+    text-align: right;
+    margin-top: 2rem;
+}
 /*Experience section*/
 
 
@@ -139,9 +142,6 @@ p.lead {
 
 
 /*Interests*/
-#interests_heading {
-    text-align: left;
-}
 
 
 /*footer*/
