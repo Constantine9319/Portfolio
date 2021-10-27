@@ -43,6 +43,8 @@ p{
 }
 section{
     padding: 5rem 3rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
 }
 /*White sections*/
 .white-section{
