@@ -139,3 +139,14 @@ p.lead {
 
 
 /*Interests*/
+#interests_heading {
+    text-align: left;
+}
+
+
+/*footer*/
+
+footer{
+    text-align: center;
+    padding: 5rem 7rem
+}
